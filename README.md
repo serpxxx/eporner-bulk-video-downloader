@@ -117,4 +117,3 @@ No. This actor is an independent tool and is not affiliated with, endorsed by, o
 
 - Run it here: https://serp.ly/eporner-bulk-video-downloader
 - Browser extension alternative: https://serp.ly/eporner-downloader
-- Apify actor: https://apify.com/serpxxx/eporner-bulk-video-downloader

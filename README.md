@@ -111,6 +111,12 @@ No. This tool is independent and is not affiliated with, endorsed by, or sponsor
 5. Open the dataset results and use `directVideoUrl` for the source media link.
 6. If file downloads are enabled, use `storedFileUrl` as the clickable hosted download link.
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=AyBK9W_7IMg" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-eporner-videos.jpg" width="700px">
+</a>
+
 ## Links
 
 - Run it here: https://serp.ly/eporner-bulk-video-downloader

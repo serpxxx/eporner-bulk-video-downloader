@@ -1,5 +1,11 @@
 # Eporner Bulk Video Downloader
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=AyBK9W_7IMg" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-eporner-videos.jpg" width="700px">
+</a>
+
 Eporner Bulk Video Downloader is a bulk video downloader and metadata extractor for public Eporner video pages. Paste Eporner URLs or run a search query and get structured results with titles, thumbnails, durations, available formats, selected quality, direct media URLs, and optional hosted file download links.
 
 👉 Get it Here: https://serp.ly/eporner-bulk-video-downloader
